@@ -20,9 +20,6 @@
   - [JPI Email Workflow Refactoring Concept](#jpi-email-workflow-refactoring-concept)
 - [Algorithms and Data Structures](#-algorithms-and-data-structures)
   - [Leetcode Interview 150](#leetcode-interview-150-set)
-  - [Leetcode Practice Category Exams](#leetcode-practice-category-exams)
-  - [Codewars Kata Collection](#codewars-kata-collection)
-  - [Codility Developer Training](#codility-developer-training)
 - [Pinned Projects](#-pinned-projects)
 
 ---
@@ -62,30 +59,6 @@
 C# solutions for LeetCode's Interview 150 problem set, complete with unit tests.
 
 ##### [View GitHub Repository](https://github.com/chitangchin/LeetCodeInterview150)
-
----
-
-### LeetCode Practice Category Exams
-
-LeetCode Interview 150 Exam practice setup with time constraints, unique tests, and minimal configuration in C#.
-
-##### [View GitHub Repository](https://github.com/chitangchin/Leetcode-Practice-Exams)
-
----
-
-### Codewars Kata Collection
-
-C# solution set for Codewars Kata challenges, tested with unit tests.
-
-##### [View GitHub Repository](https://github.com/chitangchin/CodewarKata)
-
----
-
-### Codility Developer Training
-
-C# solutions for Codility practice questions, designed to simulate real coding interviews with unit tests.
-
-##### [View GitHub Repository](https://github.com/chitangchin/CodilityDeveloperTraining)
 
 ---
 
