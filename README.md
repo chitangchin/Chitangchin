@@ -3,13 +3,9 @@
 ## Education
 
 ### Data Structures and Algorithms
-- [W3 School C# Fundamentals]()
-- [W3 School Data Structures and Algorithms]()
-- [Data Structures and Algorithms in C#]()
-- [Leetcode 150]()
-
-### System design
-- [Mastering the System design Interview]()
+- [W3 School C# Fundamentals](https://github.com/chitangchin/w3schoolsCSharpFundamentals)
+- [Data Structures and Algorithms in C#](https://github.com/chitangchin/DataStructureAndAlgosInCSharp)
+- [Leetcode 150](https://github.com/chitangchin/LeetCodeInterview150)
 
 ## Certifications
 
@@ -22,4 +18,4 @@
 - [Jira Fundamentals](https://university.atlassian.com/student/award/jDn1n6JUTkL5CeKzL1GJHD9b)
 
 ## Volunteering
-- [Southeastern Oklahoma State University CS Career Prep]()
+- [Southeastern Oklahoma State University CS Career Prep](https://github.com/SOSU-Cohort1)
