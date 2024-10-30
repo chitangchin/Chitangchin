@@ -5,7 +5,7 @@
 ### Data Structures and Algorithms
 - [W3 School C# Fundamentals](https://github.com/chitangchin/w3schoolsCSharpFundamentals)
 - [Data Structures and Algorithms in C#](https://github.com/chitangchin/DataStructureAndAlgosInCSharp)
-- [Leetcode 150](https://github.com/chitangchin/LeetCodeInterview150)
+- [Leetcode 150 in C#](https://github.com/chitangchin/LeetCodeInterview150)
 
 ## Certifications
 
